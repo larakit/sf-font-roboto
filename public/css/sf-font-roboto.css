@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Roboto Light'), local('Roboto-Light'), url(/packages/larakit/sf-font-roboto/fonts/Fl4y0QdOxyyTHEGMXX8kcT8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Roboto Medium'), local('Roboto-Medium'), url(/packages/larakit/sf-font-roboto/fonts/oHi30kwQWvpCWqAhzHcCSD8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
