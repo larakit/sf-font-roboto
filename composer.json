@@ -1,0 +1,13 @@
+{
+    "name": "larakit/sf-font-roboto",
+    "description": "[Larakit] [staticfiles] sf-font-roboto",
+    "license": "MIT",
+    "require": {
+        "larakit/lk-staticfiles": "*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
